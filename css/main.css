@@ -26,7 +26,7 @@
 }
 
 #header{
-    background: url(../src/fondo\ nuevo.png) top/cover no-repeat ; 
+    background: url(../src/paisaje-2-e1549600987975.jpg) top/cover no-repeat ; 
 }
 
 .btn:not(.nav-btns button){
@@ -61,4 +61,11 @@
     height: 46px;
     border-radius: 50%;
     background-color: red;
+}
+#offers{
+    background: url(../src/1000_F_95148846_fIpLzri3ozpYflW1REn3sM3GWpcaQ89v.jpg)
+    center/cover no-repeat;
+}
+#offers.row{
+    min-height: 60px;
 }
